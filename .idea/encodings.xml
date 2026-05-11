@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/view-link-cloud-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/view-link-cloud-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/view-link-cloud-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/view-link-cloud-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/view-link-cloud-interact/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/view-link-cloud-resource/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/view-link-cloud-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

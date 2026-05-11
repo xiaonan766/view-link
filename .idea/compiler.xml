@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="view-link-cloud-admin" />
+        <module name="view-link-cloud-gateway" />
+        <module name="view-link-cloud-resource" />
+        <module name="view-link-cloud-base" />
+        <module name="view-link-cloud-common" />
+        <module name="view-link-cloud-web" />
+        <module name="view-link-cloud-interact" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="view-link-cloud-admin" options="-parameters" />
+      <module name="view-link-cloud-base" options="-parameters" />
+      <module name="view-link-cloud-common" options="-parameters" />
+      <module name="view-link-cloud-gateway" options="-parameters" />
+      <module name="view-link-cloud-interact" options="-parameters" />
+      <module name="view-link-cloud-resource" options="-parameters" />
+      <module name="view-link-cloud-web" options="-parameters" />
+    </option>
+  </component>
+</project>
