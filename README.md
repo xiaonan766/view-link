@@ -1,8 +1,40 @@
+—— —— —— —— —— —— —— —— —— —— —— —— ——
+
+前端：
+
+框架：Vue 3
+
+构建工具：Vite
+
+UI 组件库：Element Plus
+
+状态管理：Pinia
+
+路由：Vue Router
+
+请求库：Axios
+
+样式：SCSS / Sass
+
+播放器：ArtPlayer
+
+HLS 播放：hls.js
+
+弹幕：artplayer-plugin-danmuku
+
+图表：ECharts
+
+其他：mitt、js-md5、vue-cropper、vue-draggable-plus、vue-cookies
+
+—— —— —— —— —— —— —— —— —— —— —— —— ——
+
 访客端：
 登录页面
 <img width="1912" height="981" alt="image" src="https://github.com/user-attachments/assets/31736197-21fa-4df3-88a1-ddefffd77499" />
 注册页面
 <img width="1912" height="979" alt="image" src="https://github.com/user-attachments/assets/6eba80d4-801f-4f6e-83a8-0f97a8317d4e" />
+首页：
+<img width="1918" height="978" alt="image" src="https://github.com/user-attachments/assets/8b1021ec-d898-47f1-adc9-fffaf99e18f7" />
 周边列表页面
 <img width="1905" height="982" alt="image" src="https://github.com/user-attachments/assets/0044a642-cd3d-412d-a8ae-1b18b9dd78b5" />
 周边详情页面
@@ -18,8 +50,15 @@
 稿件管理页面
 <img width="1917" height="987" alt="image" src="https://github.com/user-attachments/assets/b7e196ad-fe13-42ba-a343-071175275e85" />
 <img width="1919" height="991" alt="image" src="https://github.com/user-attachments/assets/6bb5188a-2060-4be8-9dd8-4e469317c0b0" />
+观看视频以及互动页面
+<img width="1919" height="983" alt="image" src="https://github.com/user-attachments/assets/ea51ff24-01be-49ed-bb3b-837500888889" />
+评论页面
+<img width="1919" height="984" alt="image" src="https://github.com/user-attachments/assets/0df5952b-5a09-4ed8-a87f-6b66ea8b968c" />
+<img width="1914" height="983" alt="image" src="https://github.com/user-attachments/assets/4fa63ab3-13cd-4daa-8f1a-656d7f1c445a" />
+动态页面
+<img width="1919" height="976" alt="image" src="https://github.com/user-attachments/assets/1dd6b07a-b79b-4e69-bff9-919fbe6975da" />
 
-————  ————   ———  ——— ———  —————— 
+—— —— —— —— —— —— —— —— —— —— —— —— ——
 
 管理端：
 登录页面
@@ -34,3 +73,5 @@
 稿件管理页面
 <img width="1919" height="983" alt="image" src="https://github.com/user-attachments/assets/a06a2b06-5a86-4524-8b10-db772a963871" />
 <img width="1919" height="980" alt="image" src="https://github.com/user-attachments/assets/f8c81ba9-70c2-4e91-8dd7-4799b0fe89fb" />
+审核视频详情页面
+<img width="1919" height="984" alt="image" src="https://github.com/user-attachments/assets/ab415266-19ea-4d7b-9453-ccce7ca9968f" />
